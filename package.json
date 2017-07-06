@@ -1,5 +1,5 @@
 {
-  "name": "piet-interpreter",
+  "name": "piet-interpreter-js",
   "version": "0.5.0",
   "description": "piet interpreter for JavaScript",
   "main": "index.js",
